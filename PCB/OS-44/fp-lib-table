@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OS44")(type "KiCad")(uri "C:/Users/Sasha/Documents/OS44-HF/PCB/OS-44")(options "")(descr ""))
+)

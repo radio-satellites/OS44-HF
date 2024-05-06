@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Osc")(type "KiCad")(uri "${KIPRJMOD}/ECS-100A-143.kicad_sym")(options "")(descr ""))
+  (lib (name "ATTINY")(type "KiCad")(uri "${KIPRJMOD}/ATTINY85-20PU.kicad_sym")(options "")(descr ""))
+)
